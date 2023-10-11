@@ -2,45 +2,45 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'dlrow-olleh', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 10, // How many projects to display.
+    limit: 4, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    facebook: '',
-    instagram: '',
-    youtube: '', // example: 'pewdiepie'
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://arifszn.com',
+    linkedin: 'linkedin.com/in/mahima-beltur',
+    //twitter: 'arif_szn',
+   // mastodon: 'arifszn@mastodon.social',
+    //facebook: '',
+    //instagram: '',
+    //youtube: '', // example: 'pewdiepie'
+    //dribbble: '',
+    //behance: '',
+    //medium: 'arifszn',
+    //dev: 'arifszn',
+    //stackoverflow: '', // example: '1/jeff-atwood'
+    //skype: '',
+    //telegram: '',
+    website: 'https://dlrow-olleh.github.io',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'mahimabeltur@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1WyXA3ulayPNV2ntpVWgdN6fplLoEMdek/view?usp=share_link', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
+    'Python',
+    'C',
+    'C++',
     'React.js',
     'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
+    'Flask.js',
+    'JavaScript',
+    'OpenCV',
     'Git',
     'Docker',
     'PHPUnit',
@@ -50,18 +50,18 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'Indico Data',
+      position: 'Software Engineering Intern- R&D',
+      from: 'September 2022',
+      to: 'December 2022',
+      companyLink: 'https://www.indicodata.ai',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Johnson & Johnson',
+      position: 'Senior Capstone',
+      from: 'September 2021',
+      to: 'May 2022',
+      //companyLink: 'https://example.com',
     },
   ],
   /* certifications: [
@@ -74,16 +74,10 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Olin College of Engineering',
+      degree: 'B.S. Engineering, Conc. Computing',
+      from: '2018',
+      to: '2023',
     },
   ],
 
