@@ -94,14 +94,14 @@ const config = {
         'Designed a data processing and planning algorithm leveraging reinforcement learning methods to optimize environmental estimation from sparse data, enabling continuous monitoring of the aquaculture environment while reducing data collection by approximately 80% thus enabling efficient power and energy consumption in robot and longer deployment periods.',
       ],
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://ocap-lair-olin.github.io/',
     },
     {
       title: 'Forms Builder Prototyoe- Indico Internship',
       description:
         '- Designed, developed, and tested an automatic form processing tool prototype to reduce manual data labeling time more than 50% by using machine learning from previously analyzed forms to generate predictions identifying the layout, fields, and input data types. \n - Designed and integrated the front-end and back-end of the prototype with Indico’s proprietary API for maximizum accuracy in OCR and smooth integration.\n- Successfully identified and leveraged optimal open-source third-party services such as OpenCV, Flask, and scikit-learn to reduce development costs and maximize system performance.\n - Identified and collaborated with key stakeholders to make informed design decisions to increase user satisfaction measured through user interviews.\n - Facilitated seamless communication and collaboration among cross-functional teams and external stakeholders, contributing to productive discussions regarding design and product direction, reducing project timeline delays, and ensuring on-time product deployment.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      //link: 'https://example.com',
+      link: 'https://indicodata.ai',
     },
     {
       title: 'Surgical Robotic Capston- Johnson & Johnson',
@@ -115,14 +115,14 @@ const config = {
       description:
         '- Explored satellite communication technology and policy with the OSSTP Team.- Worked to implement the EPFDdown algorithm in Matlab to verify the downlinked interference between non-geostationary satellites and geostationary satellites.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      //link: 'https://example.com',
+      link: 'https://www.osstp.org',
     },
     {
       title: 'Human-Interaction with Robotics',
       description:
         '- Programmed robot arm to play chess against a human participant autonomously with Python.- Conducted a theoretical exploration into path planning, computer vision, and anti-collision algorithms to construct skeletons for 3-D shapes given an input line with dowels using a pair of robot arms.- Studied coordination of paired robotic arms to align two independent parts using machine learning and path planning.- Worked with incoming members of the Olin Robolab to familiarize themselves with the robot\'s setup and software tools and systems.- Guided incoming members through their introductory projects.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      //link: 'https://example.com',
+      link: 'https://github.com/orgs/olinrobotics/teams/hiro',
     },
     {
       title: 'Agent-based modelling of greed vs desire for survival-Complexity Science',
@@ -143,35 +143,35 @@ const config = {
       description:
         'Designed, built, and programmed a robot to take in an image through a camera lens and draw a likeness as a single-lined drawing. The team manufactured each component of the mechanism by hand, and the computer vision algorithm to convert from the image to vectors was created on Matlab.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      //link: 'https://example.com',
+      link: 'https://github.com/dlrow-olleh/POE-TBD',
     },
     {
       title: 'Bechdel Test Scraper',
       description:
         'An exercise in recursive functions; the project generates a unique,random equation and creates art based off of the outcome.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      //link: 'https://example.com',
+      link: 'https://github.com/sd19spring/ComputationalArt-dlrow-olleh/blob/master/recursive_art.py',
     },
     {
       title: 'Recursive Art',
       description:
         'An exercise in recursive functions; the project generates a unique,random equation and creates art based off of the outcome.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      //link: 'https://example.com',
+      link: 'https://github.com/sd19spring/ComputationalArt-dlrow-olleh/blob/master/recursive_art.py',
     },
     {
       title: 'Gene Finder',
       description:
         'Given a DNA sequence, the code identifiies the appropriate start and end tags, and recognises all possible versions of a viable gene. Then it looks it up in a directory to identify it',
       imageUrl: 'https://via.placeholder.com/250x250',
-      //link: 'https://example.com',
+      link: 'https://github.com/sd19spring/GeneFinder-dlrow-olleh',
     },
     {
       title: 'Recycling non-recyclable plastics',
       description:
         'Conducted an analysis into recycling practices and their inefficiencies. I also attempted to re-create a material science experiment to convert thermoset plastics (non-recyclable) into a recyclable plastic by modifying its material structure.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      //link: 'https://example.com',
+      link: 'https://cheerful-kitchen-e30.notion.site/Non-recyclable-plastics-are-recyclalbe-6d735823dc984565aba2271e65505fc7',
     },
     {
       title: 'Pando App',
