@@ -94,7 +94,7 @@ const config = {
         'Designed a data processing and planning algorithm leveraging reinforcement learning methods to optimize environmental estimation from sparse data, enabling continuous monitoring of the aquaculture environment while reducing data collection by approximately 80% thus enabling efficient power and energy consumption in robot and longer deployment periods.',
       ],
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://ocap-lair-olin.github.io/',
+      link: 'https://www.researchgate.net/publication/371162009_Decision-making_under_uncertainty_beyond_probabilities',
     },
     {
       title: 'Forms Builder Prototyoe- Indico Internship',
@@ -106,7 +106,7 @@ const config = {
     {
       title: 'Surgical Robotic Capston- Johnson & Johnson',
       description:
-        '- Led the process of designing and prototyping a standardized soft robotic surgical tool for future integration with the Johnson & Johnson robotic platform.- Researched, implemented, modified, and tested pneumatic soft robot designs for use in thoracic surgery.- Experimented with feedback mechanisms using OpenCV to strengthen surgeons.',
+        'Prototyped both software, sensing, and manupulation solutions to interface with Johnson & Johnson\'s surgical robotic platform. ',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://www.olin.edu/research/johnson-johnson',
     },
@@ -145,13 +145,13 @@ const config = {
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://github.com/dlrow-olleh/POE-TBD',
     },
-    // {
-    //   title: 'Bechdel Test Scraper',
-    //   description:
-    //     'An exercise in recursive functions; the project generates a unique,random equation and creates art based off of the outcome.',
-    //   imageUrl: 'https://via.placeholder.com/250x250',
-    //   link: 'https://github.com/sd19spring/ComputationalArt-dlrow-olleh/blob/master/recursive_art.py',
-    // },
+    {
+      title: 'Bechdel Test Scraper',
+      description:
+        'An exercise in recursive functions; the project generates a unique,random equation and creates art based off of the outcome.',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://github.com/dlrow-olleh/Project-4/blob/master/BechdelTestScraper',
+    },
     // {
     //   title: 'Recursive Art',
     //   description:
