@@ -4,16 +4,16 @@ const config = {
   github: {
     username: 'dlrow-olleh', // Your GitHub org/user name. (Required)
     sortBy: 'updated', // stars | updated
-    limit: 4, // How many projects to display.
+    limit: 0, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
-      projects: ['dlrow-olleh.github.io', 'myWebsiteTake2','myPortfolio'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: ['dlrow-olleh.github.io', 'myWebsiteTake2','myPortfolio',''], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
     linkedin: 'mahima-beltur',
     //twitter: 'arif_szn',
-   // mastodon: 'arifszn@mastodon.social',
+    //mastodon: 'arifszn@mastodon.social',
     //facebook: '',
     //instagram: '',
     //youtube: '', // example: 'pewdiepie'
@@ -122,22 +122,22 @@ const config = {
       description:
         '- Programmed robot arm to play chess against a human participant autonomously with Python.- Conducted a theoretical exploration into path planning, computer vision, and anti-collision algorithms to construct skeletons for 3-D shapes given an input line with dowels using a pair of robot arms.- Studied coordination of paired robotic arms to align two independent parts using machine learning and path planning.- Worked with incoming members of the Olin Robolab to familiarize themselves with the robot\'s setup and software tools and systems.- Guided incoming members through their introductory projects.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://github.com/orgs/olinrobotics/teams/hiro',
+      link: 'https://github.com/olinrobotics/hiro',
     },
     {
       title: 'Agent-based modelling of greed vs desire for survival-Complexity Science',
       description:
         '- Inspired by the sugarscape simulation, I created an agent-based model to mimic human-like behaviour in a world where a disease infects agents based off of proximity. Agents tend to want to stay away from infectd agents, but also want to flock to areas of higher sugar availability. The model mimimcs the power of survival vs greed.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      //link: 'https://example.com',
+      link: 'https://github.com/dlrow-olleh/Complexity-Project-2/blob/main/reports/final_report.md',
     },
-    {
-      title: 'Practice Search Engineer- Data Structures and Algorithms',
-      description:
-        'To practice data structures and networks, I made my own search engine that recommends articles on wikipedia in order of how frequently they\'re visited',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      //link: 'https://example.com',
-    },
+    // {
+    //   title: 'Practice Search Engineer- Data Structures and Algorithms',
+    //   description:
+    //     'To practice data structures and networks, I made my own search engine that recommends articles on wikipedia in order of how frequently they\'re visited',
+    //   imageUrl: 'https://via.placeholder.com/250x250',
+    //   //link: 'https://example.com',
+    // },
     {
       title: 'Drawbot',
       description:
@@ -145,27 +145,27 @@ const config = {
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://github.com/dlrow-olleh/POE-TBD',
     },
-    {
-      title: 'Bechdel Test Scraper',
-      description:
-        'An exercise in recursive functions; the project generates a unique,random equation and creates art based off of the outcome.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://github.com/sd19spring/ComputationalArt-dlrow-olleh/blob/master/recursive_art.py',
-    },
-    {
-      title: 'Recursive Art',
-      description:
-        'An exercise in recursive functions; the project generates a unique,random equation and creates art based off of the outcome.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://github.com/sd19spring/ComputationalArt-dlrow-olleh/blob/master/recursive_art.py',
-    },
-    {
-      title: 'Gene Finder',
-      description:
-        'Given a DNA sequence, the code identifiies the appropriate start and end tags, and recognises all possible versions of a viable gene. Then it looks it up in a directory to identify it',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://github.com/sd19spring/GeneFinder-dlrow-olleh',
-    },
+    // {
+    //   title: 'Bechdel Test Scraper',
+    //   description:
+    //     'An exercise in recursive functions; the project generates a unique,random equation and creates art based off of the outcome.',
+    //   imageUrl: 'https://via.placeholder.com/250x250',
+    //   link: 'https://github.com/sd19spring/ComputationalArt-dlrow-olleh/blob/master/recursive_art.py',
+    // },
+    // {
+    //   title: 'Recursive Art',
+    //   description:
+    //     'An exercise in recursive functions; the project generates a unique,random equation and creates art based off of the outcome.',
+    //   imageUrl: 'https://via.placeholder.com/250x250',
+    //   link: 'https://github.com/sd19spring/ComputationalArt-dlrow-olleh/blob/master/recursive_art.py',
+    // },
+    // {
+    //   title: 'Gene Finder',
+    //   description:
+    //     'Given a DNA sequence, the code identifiies the appropriate start and end tags, and recognises all possible versions of a viable gene. Then it looks it up in a directory to identify it',
+    //   imageUrl: 'https://via.placeholder.com/250x250',
+    //   link: 'https://github.com/sd19spring/GeneFinder-dlrow-olleh',
+    // },
     {
       title: 'Recycling non-recyclable plastics',
       description:
@@ -178,29 +178,29 @@ const config = {
       description:
         'Worked with local activists and community organisers to understand what values and methods bring communities together. The team designed a user interface that enables community members to tag locations they have visited and share their cherished memories. The app also allows small event organisers to draw attentio to the events. The app is currently being developed by an unaffiliated group.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      //link: 'https://example.com',
+      link: 'https://drive.google.com/file/d/17gFIf0bArrPQDEpP2Qn16-XWWe2H8fWj/view?usp=share_link',
     },
     {
       title: 'Custom Wheelchair Build',
       description:
         'Worked with an eldery couple, Merylee and John, from the local Needham community. Merylee had a number of health conditions that prevented her ease of movement, causing them to carry both a walker and a wheelchair everywhere, in addition to her oxygen tank. My team created a two-in-one walker and wheelchair combo that could also accomodate her oxygen tank.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      //link: 'https://example.com',
+      link: 'https://docs.google.com/presentation/d/1YPSBK1VPvTipKnfM1oi89bHDxlEJ7nd_T6Yq4BX8sIk/edit?usp=sharing',
     },
-    {
-      title: 'Eye Movemement Sensor',
-      description:
-        'Built a circuit that used propes attatched to test subject temples that detected the direction of eye movement as an electrical signal.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      //link: 'https://example.com',
-    },
-    {
-      title: 'Pulse Oxymeter Circuit',
-      description:
-        'Built a circuuit that functions as a pulse oxymeter to track the fluctuation of pulse as an electrical signal. Repeated this project to measure the same signal through a weighing scale.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      //link: 'https://example.com',
-    },
+    // {
+    //   title: 'Eye Movemement Sensor',
+    //   description:
+    //     'Built a circuit that used propes attatched to test subject temples that detected the direction of eye movement as an electrical signal.',
+    //   imageUrl: 'https://via.placeholder.com/250x250',
+    //   //link: 'https://example.com',
+    // },
+    // {
+    //   title: 'Pulse Oxymeter Circuit',
+    //   description:
+    //     'Built a circuuit that functions as a pulse oxymeter to track the fluctuation of pulse as an electrical signal. Repeated this project to measure the same signal through a weighing scale.',
+    //   imageUrl: 'https://via.placeholder.com/250x250',
+    //   //link: 'https://example.com',
+    // },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   // blog: {
