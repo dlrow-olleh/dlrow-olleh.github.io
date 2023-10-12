@@ -2,7 +2,7 @@ import { skeleton } from '../../helpers/utils';
 import { Fragment } from 'react';
 import PropTypes from 'prop-types';
 
-const ListItem = ({ time, position, company, companyLink }) => (
+const ListItem = ({ time, position, company, companyLink,description }) => (
   <li className="mb-5 ml-4">
     <div
       className="absolute w-2 h-2 bg-base-300 rounded-full border border-base-300 mt-1.5"
@@ -15,6 +15,7 @@ const ListItem = ({ time, position, company, companyLink }) => (
         {company}
       </a>
     </div>
+    <div className="mb-4 font-normal">{description}</div>
   </li>
 );
 
@@ -35,6 +36,7 @@ const Experience = ({ experiences, loading }) => {
             className: 'my-1.5',
           })}
           company={skeleton({ width: 'w-6/12', height: 'h-3' })}
+          description={skeleton({ width: 'w-6/12', height: 'h-3' })}
         />
       );
     }
@@ -49,7 +51,7 @@ const Experience = ({ experiences, loading }) => {
             <div className="mx-3">
               <h5 className="card-title">
                 {loading ? (
-                  skeleton({ width: 'w-32', height: 'h-8' })
+                  skeleton({ width: 'w-32', height: 'h-10' })
                 ) : (
                   <span className="text-base-content opacity-70">
                     Experience
@@ -72,6 +74,7 @@ const Experience = ({ experiences, loading }) => {
                         companyLink={
                           experience.companyLink ? experience.companyLink : null
                         }
+                        description = {experience.description}
                       />
                     ))}
                   </Fragment>
