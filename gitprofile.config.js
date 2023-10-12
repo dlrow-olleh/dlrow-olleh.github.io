@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'linkedin.com/in/mahima-beltur',
+    linkedin: 'mahima-beltur',
     //twitter: 'arif_szn',
    // mastodon: 'arifszn@mastodon.social',
     //facebook: '',
