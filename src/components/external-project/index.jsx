@@ -90,7 +90,7 @@ const ExternalProject = ({ externalProjects, loading, googleAnalytics }) => {
             console.error(error);
           }
 
-          window?.open(item.link, '_blank');
+         if(item.link){ window?.open(item.link, '_blank');}
         }}
       >
         <div className="p-8 h-full w-full">
