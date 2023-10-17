@@ -98,7 +98,7 @@ const config = {
     {
       title: 'Forms Builder Prototyoe- Indico Internship',
       description:
-        'Designed, developed, and tested an automatic form processing tool prototype to reduce manual data labeling time by using machine learning from previously analyzed forms to generate predictions identifying the layout, fields, and input data types.',
+        'Designed, developed, and tested an automatic form processing tool prototype to reduce manual data labeling time by using machine learning from previously analyzed forms to generate predictions identifying the layout, fields, and input data types. [Source code is not linked as the project is under NDA]',
       imageUrl: 'https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/essr0rvwfvdmzvwrznvj',
       link: 'https://indicodata.ai',
     },
@@ -134,7 +134,7 @@ const config = {
     {
       title: 'Practice Search Engineer- Data Structures and Algorithms',
       description:
-        'To practice data structures and networks, I made my own search engine that recommends articles on wikipedia in order of how frequently they\'re visited',
+        'To practice data structures and networks, I made my own search engine that recommends articles on wikipedia in order of how frequently they\'re visited. [Source code is not linked as the project is part of a private organization]',
       imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzGKxjY5YqxTEJt4fbtk1TiBMz4jX-rORRf0M_P_jeqezu1CMGinxlWBKbiqnzVMUZywY&usqp=CAU',
       //link: 'https://example.com',
     },
@@ -155,14 +155,14 @@ const config = {
     {
       title: 'Recursive Art',
       description:
-        'An exercise in recursive functions; the project generates a unique,random equation and creates art based off of the outcome.',
+        'An exercise in recursive functions; the project generates a unique,random equation and creates art based off of the outcome. [Source code is not linked as the project is part of a private organization]',
       imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzGKxjY5YqxTEJt4fbtk1TiBMz4jX-rORRf0M_P_jeqezu1CMGinxlWBKbiqnzVMUZywY&usqp=CAU',
       //link: 'https://github.com/sd19spring/ComputationalArt-dlrow-olleh/blob/master/recursive_art.py',
     },
     {
       title: 'Gene Finder',
       description:
-        'Given a DNA sequence, the code identifiies the appropriate start and end tags, and recognises all possible versions of a viable gene. Then it looks it up in a directory to identify it',
+        'Given a DNA sequence, the code identifiies the appropriate start and end tags, and recognises all possible versions of a viable gene. Then it looks it up in a directory to identify it. [Source code is not linked as the project is part of a private organization]',
       imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzGKxjY5YqxTEJt4fbtk1TiBMz4jX-rORRf0M_P_jeqezu1CMGinxlWBKbiqnzVMUZywY&usqp=CAU',
       //link: 'https://github.com/sd19spring/GeneFinder-dlrow-olleh',
     },
@@ -190,14 +190,14 @@ const config = {
     {
       title: 'Eye Movemement Sensor',
       description:
-        'Built a circuit that used propes attatched to test subject temples that detected the direction of eye movement as an electrical signal.',
+        'Built a circuit that used propes attatched to test subject temples that detected the direction of eye movement as an electrical signal. [Source code is not linked as the project consists of physical circuits.]',
       imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzGKxjY5YqxTEJt4fbtk1TiBMz4jX-rORRf0M_P_jeqezu1CMGinxlWBKbiqnzVMUZywY&usqp=CAU',
       //link: 'https://example.com',
     },
     {
       title: 'Pulse Oxymeter Circuit',
       description:
-        'Built a circuuit that functions as a pulse oxymeter to track the fluctuation of pulse as an electrical signal. Repeated this project to measure the same signal through a weighing scale.',
+        'Built a circuuit that functions as a pulse oxymeter to track the fluctuation of pulse as an electrical signal. Repeated this project to measure the same signal through a weighing scale.[Source code is not linked as the project consists of physical circuits.]',
       imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzGKxjY5YqxTEJt4fbtk1TiBMz4jX-rORRf0M_P_jeqezu1CMGinxlWBKbiqnzVMUZywY&usqp=CAU',
       //link: 'https://example.com',
     },
